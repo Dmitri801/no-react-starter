@@ -1,0 +1,16 @@
+// Variables
+$body-bg: #333;
+$primary-color: #fff;
+$main-font: "Arial";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $body-bg;
+  font-family: $main-font;
+  color: $primary-color;
+}
